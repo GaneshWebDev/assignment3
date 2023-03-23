@@ -1,0 +1,20 @@
+body{
+    margin: 0px;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+form{
+    margin: 0px;
+}
+form li{
+    margin: 10px;
+}
+form button{
+    padding: 5px;
+    margin: 10px;
+    width:80px ;
+}
